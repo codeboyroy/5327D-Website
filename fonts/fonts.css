@@ -1,3 +1,4 @@
+/* Ailerons */
 @font-face {
   font-family: 'Ailerons';
   src: url('../fonts/Ailerons/Ailerons-Regular.eot');
@@ -10,6 +11,7 @@
   font-style: normal;
 }
 
+/* Aleo-Bold */
 @font-face {
   font-family: 'Aleo-Bold';
   src: url('../fonts/Aleo/Bold/Aleo-Bold.woff') format('woff'),
@@ -19,6 +21,7 @@
   font-style: normal;
 }
 
+/* Aleo Bold-Webfont */
 @font-face {
   font-family: 'aleo-bold-webfont';
   src: url('../fonts/Aleo/Bold/aleo-bold-webfont.eot');
@@ -28,6 +31,7 @@
   font-style: normal;
 }
 
+/* Aleo Light */
 @font-face {
   font-family: 'Aleo-Light';
   src: url('../fonts/Aleo/Light/Aleo-Light.eot');
@@ -40,6 +44,7 @@
   font-style: normal;
 }
 
+/* Aleo */
 @font-face {
   font-family: 'Aleo';
   src: url('../fonts/Aleo/Regular/Aleo-Regular.eot');
@@ -52,6 +57,7 @@
   font-style: normal;
 }
 
+/* Anurati */
 @font-face {
   font-family: 'Anurati';
   src: url('../fonts/Anurati/Anurati-Regular.eot');
@@ -64,6 +70,7 @@
   font-style: normal;
 }
 
+/* Argon */
 @font-face {
   font-family: 'Argon';
   src: url('../fonts/Argon/ArgonPERSONAL-Regular.eot');
@@ -76,6 +83,7 @@
   font-style: normal;
 }
 
+/* Cheque */
 @font-face {
   font-family: 'Cheque';
   src: url('../fonts/Cheque/Cheque-Regular.eot');
@@ -88,6 +96,7 @@
   font-style: normal;
 }
 
+/* Code Bold */
 @font-face {
   font-family: 'Code-Bold';
   src: url('../fonts/Code/Code-Bold.eot');
@@ -99,7 +108,7 @@
   font-weight: normal;
   font-style: normal;
 }
-
+/* Code Light */
 @font-face {
   font-family: 'Code-Light';
   src: url('../fonts/Code/Code-Light.eot');
@@ -112,6 +121,7 @@
   font-style: normal;
 }
 
+/* Elianto */
 @font-face {
   font-family: 'Elianto';
   src: url('../fonts/Elianto/Elianto-Regular.eot');
@@ -124,6 +134,7 @@
   font-style: normal;
 }
 
+/* Moon */
 @font-face {
   font-family: 'Moon';
   src: url('../fonts/Moon/Moon-Light.eot');
@@ -136,6 +147,7 @@
   font-style: normal;
 }
 
+/* Pangram Black */
 @font-face {
   font-family: 'Pangram-Black';
   src: url('../fonts/Pangram/Black/Pangram-Black.eot');
@@ -148,6 +160,7 @@
   font-style: normal;
 }
 
+/* Pangram Bold */
 @font-face {
   font-family: 'Pangram-Bold';
   src: url('../fonts/Pangram/Bold/Pangram-Bold.eot');
@@ -160,6 +173,7 @@
   font-style: normal;
 }
 
+/* Pangram Extra-Bold */
 @font-face {
   font-family: 'Pangram-ExtraBold';
   src: url('../fonts/Pangram/Extra-Bold/Pangram-ExtraBold.eot');
@@ -172,8 +186,9 @@
   font-style: normal;
 }
 
+/* Pangram Extra-Light */
 @font-face {
-  font-family: 'Pangram-ExtraLight';
+  font-family: 'Pangram-Extra-Light';
   src: url('../fonts/Pangram/Extra-Light/Pangram-ExtraLight.eot');
   src: url('../fonts/Pangram/Extra-Light/Pangram-ExtraLight.woff2') format('woff2'),
   url('../fonts/Pangram/Extra-Light/Pangram-ExtraLight.woff') format('woff'),
@@ -184,6 +199,7 @@
   font-style: normal;
 }
 
+/* Pangram Light */
 @font-face {
   font-family: 'Pangram-Light';
   src: url('../fonts/Pangram/Light/Pangram-Light.eot');
@@ -196,6 +212,7 @@
   font-style: normal;
 }
 
+/* Pangram Medium */
 @font-face {
   font-family: 'Pangram-Medium';
   src: url('../fonts/Pangram/Medium/Pangram-Medium.eot');
@@ -207,7 +224,7 @@
   font-weight: normal;
   font-style: normal;
 }
-
+/* Pangram */
 @font-face {
   font-family: 'Pangram';
   src: url('../fonts/Pangram/Regular/Pangram-Regular.eot');
@@ -220,6 +237,7 @@
   font-style: normal;
 }
 
+/* Kiona */
 @font-face {
   font-family: 'Kiona';
   src: url('../fonts/Kiona/Kiona-Regular.eot');
