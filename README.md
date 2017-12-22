@@ -6,7 +6,7 @@ Our team, 5327D, is one of five sister teams within the Gael Force. As a team, w
 
 ## Game Strategy
 
-
+asasds
 
 ## This Year's Bot
 
