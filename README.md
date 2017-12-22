@@ -6,7 +6,7 @@ Our team, 5327D, is one of five sister teams within the Gael Force. As a team, w
 
 ## Game Strategy
 
-asasds
+This year's 2017-2018 VEX game is "In the Zone". "In the Zone" is an offense-based game. The game revolves around the scoring of mobile goals into zones, and stacking cones on either the mobile goal or a stationary goal. Each cone is worth two points regardless of location. The value of the mobile goal is denoted by the zone said mobile goal is scored in. There
 
 ## This Year's Bot
 
